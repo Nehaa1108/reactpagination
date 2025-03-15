@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { useFormik } from "formik"
 import  * as Yup from "yup"
-import $ from 'jquery'
+
 function Login()
 {
   const [showpassword,setShowpassword]=useState(false)
