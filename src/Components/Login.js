@@ -9,7 +9,7 @@ function Login()
 
 
   const formik = useFormik({
-    initialValues: // <-- Corrected prop name
+    initialValues: 
     {
       email: "",
       name: "",

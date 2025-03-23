@@ -1,0 +1,96 @@
+{
+  "users":
+  [
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+    {
+      "postId":10,
+      "id":1,
+      "name":"neha",
+      "email":"neha@gmail.com",
+      "body":"this is fake api data"
+    },
+  ]
+}

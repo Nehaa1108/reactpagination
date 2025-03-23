@@ -1,7 +1,7 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Login from "./Components/Login";
-import ModalPagination from "./Components/ModalPagination";
+import Pagination from "./Components/Pagination";
 import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
 // import PrivateRoute from './PrivateRoute';
 function App() {
@@ -10,9 +10,9 @@ function App() {
     <Routes>
      <Route path='/' element={<Login />} />
      <Route path='/Login' element={<Login />} />
-     <Route path='/ModalPagination' element={
+     <Route path='/Pagination' element={
       // <PrivateRoute>
-      <ModalPagination />
+      <Pagination />
       // </PrivateRoute>
       } 
       />
